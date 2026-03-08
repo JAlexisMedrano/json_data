@@ -1,0 +1,27 @@
+{
+  "peliculas": [
+    {
+      "id": "mov001",
+      "titulo": "Película Demo 1",
+      "descripcion": "Una emocionante película de acción llena de sorpresas.",
+      "portada": "https://via.placeholder.com/300x450/1a1a2e/e50914?text=PELICULA+1",
+      "banner": "https://via.placeholder.com/1280x720/1a1a2e/e50914?text=PELICULA+1",
+      "anio": 2024,
+      "duracion": "2h 10m",
+      "categoria": "Acción",
+      "calificacion": 8.5,
+      "url": "https://example.com/movie1.m3u8"
+    },
+    {
+      "id": "mov002",
+      "titulo": "Película Demo 2",
+      "descripcion": "Un drama conmovedor que te dejará sin palabras.",
+      "portada": "https://via.placeholder.com/300x450/2e1a1a/e50914?text=PELICULA+2",
+      "anio": 2023,
+      "duracion": "1h 45m",
+      "categoria": "Drama",
+      "calificacion": 7.8,
+      "url": "https://example.com/movie2.mp4"
+    }
+  ]
+}

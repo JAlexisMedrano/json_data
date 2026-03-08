@@ -1,0 +1,20 @@
+{
+  "banners": [
+    {
+      "id": "b001",
+      "title": "Bienvenido a NexTV",
+      "description": "La mejor plataforma de streaming con miles de contenidos",
+      "imageUrl": "https://via.placeholder.com/1280x720/0a0a0f/e50914?text=NexTV+Premium",
+      "type": "promo",
+      "contentId": ""
+    },
+    {
+      "id": "b002",
+      "title": "Canales en Vivo 24/7",
+      "description": "Disfruta de TV en vivo con la mejor calidad",
+      "imageUrl": "https://via.placeholder.com/1280x720/0f0a1a/ffffff?text=TV+EN+VIVO",
+      "type": "channel",
+      "contentId": "ch001"
+    }
+  ]
+}

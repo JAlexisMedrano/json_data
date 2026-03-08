@@ -1,0 +1,19 @@
+{
+  "guia": [
+    {
+      "canal_id": "ch001",
+      "programas": [
+        {"titulo": "Noticias de la Mañana", "inicio": "06:00", "fin": "09:00", "categoria": "Noticias"},
+        {"titulo": "CNN Especial", "inicio": "09:00", "fin": "12:00", "categoria": "Noticias"},
+        {"titulo": "Análisis del Día", "inicio": "12:00", "fin": "15:00", "categoria": "Noticias"}
+      ]
+    },
+    {
+      "canal_id": "ch002",
+      "programas": [
+        {"titulo": "SportsCenter", "inicio": "07:00", "fin": "09:00", "categoria": "Deportes"},
+        {"titulo": "Fútbol en Vivo", "inicio": "20:00", "fin": "22:00", "categoria": "Deportes"}
+      ]
+    }
+  ]
+}

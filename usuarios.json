@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "usuario": "demo",
+      "password": "demo123",
+      "activo": true,
+      "expira": "2026-12-31",
+      "nombre": "Usuario Demo"
+    },
+    {
+      "usuario": "admin",
+      "password": "admin2024",
+      "activo": true,
+      "expira": "2027-12-31",
+      "nombre": "Administrador"
+    }
+  ]
+}

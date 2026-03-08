@@ -1,0 +1,10 @@
+{
+  "categorias": [
+    {"id": "cat_noticias", "nombre": "Noticias", "tipo": "canales"},
+    {"id": "cat_deportes", "nombre": "Deportes", "tipo": "canales"},
+    {"id": "cat_documentales", "nombre": "Documentales", "tipo": "canales"},
+    {"id": "cat_accion", "nombre": "Acción", "tipo": "peliculas"},
+    {"id": "cat_drama", "nombre": "Drama", "tipo": "peliculas"},
+    {"id": "cat_comedia", "nombre": "Comedia", "tipo": "peliculas"}
+  ]
+}

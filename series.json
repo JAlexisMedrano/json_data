@@ -1,0 +1,29 @@
+{
+  "series": [
+    {
+      "id": "ser001",
+      "serie": "Serie Demo",
+      "descripcion": "Una increíble serie de drama y misterio.",
+      "portada": "https://via.placeholder.com/300x450/1a2e1a/e50914?text=SERIE+1",
+      "banner": "https://via.placeholder.com/1280x720/1a2e1a/e50914?text=SERIE+1",
+      "anio": 2024,
+      "categoria": "Drama",
+      "calificacion": 9.0,
+      "temporadas": [
+        {
+          "temporada": 1,
+          "episodios": [
+            {"numero": 1, "titulo": "Piloto", "descripcion": "Episodio inicial", "duracion": "45m", "video": "https://example.com/s1e1.m3u8"},
+            {"numero": 2, "titulo": "El comienzo", "descripcion": "Todo comienza aquí", "duracion": "42m", "video": "https://example.com/s1e2.m3u8"}
+          ]
+        },
+        {
+          "temporada": 2,
+          "episodios": [
+            {"numero": 1, "titulo": "Regreso", "duracion": "48m", "video": "https://example.com/s2e1.m3u8"}
+          ]
+        }
+      ]
+    }
+  ]
+}
