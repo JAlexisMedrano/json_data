@@ -2,18 +2,18 @@
   "series": [
     {
       "id": "ser001",
-      "serie": "Serie Demo",
-      "descripcion": "Una increíble serie de drama y misterio.",
-      "portada": "https://via.placeholder.com/300x450/1a2e1a/e50914?text=SERIE+1",
-      "banner": "https://via.placeholder.com/1280x720/1a2e1a/e50914?text=SERIE+1",
-      "anio": 2024,
+      "serie": "Domenica Montero",
+      "descripcion": "Doménica Montero es una reconocida empresaria, y es considerada una de las novias más codiciadas del país, pero, el día de su boda, es plantada en el altar. Humillada huye para refugiarse en la antigua hacienda de sus padres.",
+      "portada": "https://image.tmdb.org/t/p/w1280/qsI8spTrGCJQObaTpyQ1TbiNSRG.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/1QqsBmK3CiOVqdA33tLglutNilk.jpg",
+      "anio": 2025,
       "categoria": "Drama",
       "calificacion": 9.0,
       "temporadas": [
         {
           "temporada": 1,
           "episodios": [
-            {"numero": 1, "titulo": "Piloto", "descripcion": "Episodio inicial", "duracion": "45m", "video": "https://example.com/s1e1.m3u8"},
+            {"numero": 1, "titulo": "Piloto", "descripcion": "Episodio inicial", "duracion": "45m", "video": "https://tvgolat.org:8443/series/papa592vice/5KfandgJrsKd/275057.mp4"},
             {"numero": 2, "titulo": "El comienzo", "descripcion": "Todo comienza aquí", "duracion": "42m", "video": "https://example.com/s1e2.m3u8"}
           ]
         },
