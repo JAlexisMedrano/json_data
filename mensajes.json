@@ -1,7 +1,7 @@
 {
   "mensaje": {
-    "activo": false,
-    "imagen": "",
+    "activo": true,
+    "imagen": "https://img.freepik.com/fotos-premium/mano-robot-apunta-dedo-pantalla-tactil-2026-feliz-ano-nuevo-2025-2027-ano-comienzo-inicio-inteligencia-artificial-ai-ciborg-innovacion-copia-espacio-futuro-ingeniero-brazo-robotico-2026-tecnologia-tiempo-2026_178037-5022.jpg?semt=ais_rp_50_assets&w=740&q=80",
     "texto": "¡Bienvenido a NexTV! Disfruta de la mejor experiencia de streaming.",
     "duracion": 5
   }
