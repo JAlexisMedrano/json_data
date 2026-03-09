@@ -1,44 +1,37 @@
-[
-  {
-    "id": "ch001",
-    "nombre": "Telefe",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-    "categoria": "Noticias",
-    "numero": 1,
-    "descripcion": "Noticias 24 horas",
-    "streams": [
-      {
-        "url": "https://tvgolat.org:8443/papa592vice/5KfandgJrsKd/1634.ts",
-        "calidad": "HD",
-        "servidor": "Servidor 1"
-      },
-      {
-        "url": "http://181.233.180.64:8000/play/a0bc",
-        "calidad": "SD",
-        "servidor": "Servidor 2"
-      }
-    ]
-  },
-  {
-    "id": "ch002",
-    "nombre": "ESPN 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg",
-    "categoria": "Deportes",
-    "numero": "20",
-    "descripcion": "undefined",
-    "streams": "[object Object],[object Object]"
-  },
-  {
-    "id": "ch003",
-    "nombre": "National Geographic",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NatGeo_2016.svg",
-    "categoria": "Documentales",
-    "numero": 30,
-    "streams": [
-      {
-        "url": "https://example.com/natgeo/hd.m3u8",
-        "calidad": "HD"
-      }
-    ]
-  }
-]
+{
+  "canales": [
+    {
+      "id": "ch001",
+      "nombre": "Telefe",
+      "logo": "https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/telefe-hd.png",
+      "categoria": "Noticias",
+      "numero": 10,
+      "descripcion": "Noticias 24 horas",
+      "streams": [
+        {"url": "https://tvgolat.org:8443/papa592vice/5KfandgJrsKd/1634.ts", "calidad": "HD", "servidor": "Servidor 1"},
+        {"url": "https://example.com/cnn/sd.m3u8", "calidad": "SD", "servidor": "Servidor 2"}
+      ]
+    },
+    {
+      "id": "ch002",
+      "nombre": "tnt sports",
+      "logo": "https://tvgolat.org:8443/images/-BEKEit_NXU2EJxrSxiHH09QWYpKqT0fMdVL3ooChB1tR895LHPnH0DOVP9UqSxQItCD5SSG_tDRbHIM8OPoOYe1poYBTMQQ_U8CIpsdxiUduV01Oz1khW_a1CPsI019yzHAPW0jn2pZ704bu0vGXQ.png",
+      "categoria": "Deportes",
+      "numero": 20,
+      "streams": [
+        {"url": "http://181.233.180.64:8000/play/a0bc", "calidad": "HD"},
+        {"url": "https://tvgolat.org:8443/papa592vice/5KfandgJrsKd/274985.ts", "calidad": "SD"}
+      ]
+    },
+    {
+      "id": "ch003",
+      "nombre": "National Geographic",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NatGeo_2016.svg",
+      "categoria": "Documentales",
+      "numero": 30,
+      "streams": [
+        {"url": "https://example.com/natgeo/hd.m3u8", "calidad": "HD"}
+      ]
+    }
+  ]
+}
