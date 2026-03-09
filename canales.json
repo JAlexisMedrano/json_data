@@ -5,11 +5,11 @@
       "nombre": "Telefe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
       "categoria": "Noticias",
-      "numero": 10,
+      "numero": 1,
       "descripcion": "Noticias 24 horas",
       "streams": [
         {"url": "https://tvgolat.org:8443/papa592vice/5KfandgJrsKd/1634.ts", "calidad": "HD", "servidor": "Servidor 1"},
-        {"url": "http://tv.diablotv.net:8080/live/miguelsierra34/hgmDp59hv4/157617.m3u8", "calidad": "SD", "servidor": "Servidor 2"}
+        {"url": "http://181.233.180.64:8000/play/a0bc", "calidad": "SD", "servidor": "Servidor 2"}
       ]
     },
     {
