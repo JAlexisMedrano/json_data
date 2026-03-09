@@ -2,15 +2,15 @@
   "peliculas": [
     {
       "id": "mov001",
-      "titulo": "Película Demo 1",
-      "descripcion": "Una emocionante película de acción llena de sorpresas.",
-      "portada": "https://via.placeholder.com/300x450/1a1a2e/e50914?text=PELICULA+1",
-      "banner": "https://via.placeholder.com/1280x720/1a1a2e/e50914?text=PELICULA+1",
-      "anio": 2024,
-      "duracion": "2h 10m",
-      "categoria": "Acción",
+      "titulo": "Luca",
+      "descripcion": "Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua..",
+      "portada": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr06RihHOGE3waZQx5fs2WYUdwr.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "anio": 2021,
+      "duracion": "1h 41m",
+      "categoria": "Animacion",
       "calificacion": 8.5,
-      "url": "https://example.com/movie1.m3u8"
+      "url": "https://tvgolat.org:8443/movie/papa592vice/5KfandgJrsKd/119251.mkv"
     },
     {
       "id": "mov002",
