@@ -2,14 +2,14 @@
   "canales": [
     {
       "id": "ch001",
-      "nombre": "CNN en Español",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",
+      "nombre": "Telefe",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
       "categoria": "Noticias",
       "numero": 10,
       "descripcion": "Noticias 24 horas",
       "streams": [
-        {"url": "https://example.com/cnn/hd.m3u8", "calidad": "HD", "servidor": "Servidor 1"},
-        {"url": "https://example.com/cnn/sd.m3u8", "calidad": "SD", "servidor": "Servidor 2"}
+        {"url": "https://tvgolat.org:8443/papa592vice/5KfandgJrsKd/1634.ts", "calidad": "HD", "servidor": "Servidor 1"},
+        {"url": "http://tv.diablotv.net:8080/live/miguelsierra34/hgmDp59hv4/157617.m3u8", "calidad": "SD", "servidor": "Servidor 2"}
       ]
     },
     {
